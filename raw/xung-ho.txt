@@ -1,0 +1,51 @@
+Bố: 父亲 /Fùqīn/ – 爸爸 /Bàba/
+Mẹ: 母亲 /Mǔqīn/ – 妈妈 /Māma/
+Vợ : 妻子 /Qīzi/ – 老婆 /Lǎopó/
+Chồng: 丈夫 /Zhàngfu/ – 老公 /Lǎogōng/
+Con trai : 儿子 /Érzi/
+Con dâu: 媳妇 /Xífù/
+Cháu trai nội: 孙子/ Sūnzi/
+Cháu gái nội: 孙女 /Sūnnǚ/
+Con gái : 女儿 /Nǚ’ér/
+Con rể : 女婿 /Nǚxù/
+Cháu trai ngoại: 外孙 /Wàisūn/
+Cháu gái ngoại: 外孙女 /Wàisūnnǚ/
+Anh trai: 哥哥 /Gēgē/
+Chị dâu: 大嫂 /Dàsǎo/
+Em trai: 弟弟/Dìdì/
+Em dâu: 弟妹 /Dìmèi/
+Cháu trai/cháu gái (gọi bạn bằng bác, chú) 侄子/侄女 /Zhízi/Zhínǚ/
+Cháu trai/cháu gái (gọi bạn bằng cô) 舅侄/舅侄女 /Jiù zhí/Jiù zhínǚ/
+Chị gái: 姐姐 /Jiějie/
+Anh rể: 姐夫 /Jiěfū/
+Em gái: 妹妹 /Mèimei/
+Em rể: 妹夫 /Mèifū/
+Cháu trai/cháu gái (gọi bạn là cậu): 外甥/外甥女 /Wàishēng/Wàishēngnǚ/
+Cháu trai/cháu gái (gọi bạn là Dì): 姨侄/姨侄女 /Yí zhí/Yí zhínǚ/
+Bố chồng: 公公 /Gōnggōng/
+Mẹ chồng: 婆婆 /Pópo/
+Bố vợ: 岳父 /Yuèfù/
+Mẹ vợ: 岳母 /Yuèmǔ/
+Ông thông gia: 亲家公 /Qìngjiā gōng/
+Bà thông gia: 亲家母 /Qìngjiāmǔ/
+Ông nội: 爷爷 /Yéye/
+Bà nội: 奶奶 /Nǎinai/
+Bác trai(anh trai của bố): 伯父 /Bófù/
+Bác dâu: 伯母 /Bómǔ/
+Chú(em trai của bố): 叔父 /Shūfù/
+Thím: 婶婶 /Shěnshen/
+Anh em họ (con của anh, em trai bố): 堂哥/姐/弟/妹 /Táng gē/jiě/dì/mèi/
+Bác gái/cô (chị, em gái của bố): 姑妈 /Gūmā/
+Bác/chú rể: 姑夫 /Gūfu/
+Anh em họ (con của chị, em gái bố): 表哥/姐/弟/妹 /Biǎo gē/jiě/dì/mèi/
+Ông ngoại: 外公 /Wàigōng/
+Bà ngoại: 外婆 /Wàipó/
+Cậu(anh, em trai của mẹ): 舅舅 /Jiùjiu/
+Mợ: 舅妈 /Jiùmā/
+Anh em họ (con của anh, em trai của mẹ): 表哥/姐/弟/妹 /Biǎo gē/jiě/dì/mèi/
+Dì(chị, em gái của mẹ): 姨妈 /Yímā/
+Chú(chồng của dì): 姨夫 /Yífu/
+Anh em họ (con của chị, em gái của mẹ): 表哥/姐/弟/妹 /Biǎo gē/jiě/dì/mèi/
+Mẹ kế: 继母/Jìmǔ/ – 后妈 /Hòumā/
+Bố dượng: 继父 /Jìfù/ -后父 /Hòufù/
+Họ hàng: 亲戚 /Qīnqi/
